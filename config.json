@@ -1,5 +1,7 @@
 {
   "baseUrl": "http://hortiguide.runasp.net",
   "LocalbaseUrl": "localhost",
-  "aiUrl": "http://54.89.122.162:8000/ask"
+  "aiUrl": "http://54.89.122.162:8000/ask",
+  "iosBaseUrl": "https://hortiguideuhsbagalkot.org/uhsbguide",
+  "iosAiUrl": "https://<your-https-ai-address>/ask"
 }
